@@ -1,0 +1,19 @@
+#displayArea {
+	height: 200px;
+	width: 470px;
+	border-radius: 6px;
+	border: 1px solid black;
+	margin: 20px;
+}
+#settings {
+	margin: 20px;
+}
+#shoutBox {
+	text-indent: 20px;
+}
+#inputArea {
+	margin: 20px;
+}
+#actionButtons {
+	margin: 20px;
+}
